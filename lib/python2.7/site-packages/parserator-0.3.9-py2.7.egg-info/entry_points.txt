@@ -1,0 +1,3 @@
+[console_scripts]
+parserator = parserator.main:dispatch
+

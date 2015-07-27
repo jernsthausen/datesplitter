@@ -1,0 +1,10 @@
+#!/home/jeff/datesplitter/bin/python
+# EASY-INSTALL-ENTRY-SCRIPT: 'parserator==0.3.9','console_scripts','parserator'
+__requires__ = 'parserator==0.3.9'
+import sys
+from pkg_resources import load_entry_point
+
+if __name__ == '__main__':
+    sys.exit(
+        load_entry_point('parserator==0.3.9', 'console_scripts', 'parserator')()
+    )

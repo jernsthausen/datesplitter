@@ -1,0 +1,7 @@
+setup.py
+datesplitter/__init__.py
+datesplitter.egg-info/PKG-INFO
+datesplitter.egg-info/SOURCES.txt
+datesplitter.egg-info/dependency_links.txt
+datesplitter.egg-info/requires.txt
+datesplitter.egg-info/top_level.txt

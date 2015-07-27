@@ -1,0 +1,16 @@
+setup.cfg
+setup.py
+parserator/__init__.py
+parserator/data_prep_utils.py
+parserator/main.py
+parserator/manual_labeling.py
+parserator/parser_template.py
+parserator/spotcheck.py
+parserator/training.py
+parserator/utils.py
+parserator.egg-info/PKG-INFO
+parserator.egg-info/SOURCES.txt
+parserator.egg-info/dependency_links.txt
+parserator.egg-info/entry_points.txt
+parserator.egg-info/requires.txt
+parserator.egg-info/top_level.txt
